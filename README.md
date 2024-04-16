@@ -1,1 +1,1 @@
-# Discord-Bot-V-rification-succ-s
+# Discord-Bot-Verification-succes
